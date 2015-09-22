@@ -1,0 +1,17 @@
+{
+  "name": "fetchcontent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satyajeet",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "request": "^2.61.0",
+    "underscore": "^1.8.3",
+    "url-validator": "^2.0.3"
+  }
+}
